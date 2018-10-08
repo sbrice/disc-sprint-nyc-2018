@@ -11,6 +11,8 @@
 
 ---
 
+[![Join the chat at https://gitter.im/disc-sprint-nyc-2018/Lobby](https://badges.gitter.im/disc-sprint-nyc-2018/Lobby.svg)](https://gitter.im/disc-sprint-nyc-2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # 2nd Annual NYC WiMLDS / Scikit-learn Sprint  
 
 * [Highlights from 2018 WiMLDS NYC / Scikit Sprint](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/)
