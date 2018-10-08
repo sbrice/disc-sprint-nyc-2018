@@ -1,4 +1,4 @@
-# Checklist for Sprint
+# Checklist for Event
 
 ## Initial Planning 
 ### For Core Contributor & Organizer
@@ -11,26 +11,27 @@
 ### For Organizer: Initial Setup
 - [x] get venue 
 - [x] announce event on Meetup (or EventBrite)
-- [x] advertise event via Twitter and newsletters
+- [ ] advertise event via Twitter and newsletters
 
 ## Event Details
 ### For Core Contributor
 - [x] check budget / get funding (for food)
 - [x] set Gitter channel for event
-- [x] advertise event via Twitter and newsletters
-- [x] get Teaching Assistants
+- [ ] advertise event via Twitter and newsletters
+- [ ] get Teaching Assistants
 - [x] tag issues
-- [ ] bring scikit stickers to event
+- [ ] create instruction manual
+- [ ] bring numfocus stickers to event
 
 ### For Organizer
 - [x] get up GitHub event repo
 - [x] recruit volunteers for event
 - [x] get estimates for food / order food 
-- [x] get stick-on nametags
-- [x] send out prep/reminder email 2-3 days in advance
-- [x] roster
-- [x] bring marker for nametags
-- [x] camera
+- [ ] get stick-on nametags
+- [ ] send out prep/reminder email 2-3 days in advance
+- [ ] roster
+- [ ] bring marker for nametags
+- [ ] camera
 
 ## Day of Sprint
 - [ ] track pull requests 
