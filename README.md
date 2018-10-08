@@ -166,6 +166,6 @@ Please feel free to take photos and tweet about the event.
 
 ### Hashtags
 
-- #disc
+- #discsprint
 - #jupyterlab
 - #opensource
