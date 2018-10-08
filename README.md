@@ -67,7 +67,7 @@ Not confident in your coding chops? Want to learn more about how to use Jupyter?
 
   - **Facilitators:** [Samuel Brice](https://github.com/sbrice)
 
-Based on interest we'll create sub-groups focused on the above topics. If you have something else in mind feel free to email Sam Brice (brices@gmail.com).
+Based on interest we'll create workshops focused on the above topics. If you have something else in mind feel free to email Sam Brice (brices@gmail.com).
   
 
 ----
