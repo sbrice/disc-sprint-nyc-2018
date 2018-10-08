@@ -12,7 +12,7 @@
 
 # Open Source Inclusion Sprint - Beginners Welcome!   
 
-Contribute to your first open source project and play with [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)!
+Contribute to your first open source project and play with [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) - no prior experience with JupyerLab necessary!!
 
 Join us at the **Two Sigma** offices in lovely **SoHo NYC** for a day of fun and learning. Core contributors from the **JupyterLab** project will be on-site to get you setup and help trouble-shoot your code. 
 
@@ -45,19 +45,25 @@ Not confident in your coding chops? Want to learn more about how to use Jupyter?
 
 * [Let’s Make an xkcd JupyterLab Extension](https://jupyterlab.readthedocs.io/en/stable/developer/xkcd_extension_tutorial.html#xkcd-extension-tutorial) (Beginner)
   
-  Create your own JupyterLab Extension and publish it to GitHub and NPM!
+  Create your own JupyterLab Extension and publish it to GitHub and NPM.
+
+  - **Prerequisites:** Some programming experience. No prior Python or JupyterLab experience necessary.
 
   - **Facilitators:** [Jessica Ford](https://github.com/jzf2101)
 
 * [Practical machine learning with the Jupyter Notebook](https://github.com/sbrice/practical-ml) (Intermediate)
 
-  Walk through developing a machine learning pipeline, from prototyping to production, with the Jupyter platform. Using the **[Recommendation engine](https://github.com/sbrice/practical-ml/tree/master/recommendation)** or **[Anomaly detection](https://github.com/sbrice/practical-ml/tree/master/anomaly)** notebook learn at your own pace and seek help from the facilitators as you need it.
+  Walk through developing a machine learning pipeline, from prototyping to production, with the Jupyter platform. Using the **[Recommendation engine](https://github.com/sbrice/practical-ml/tree/master/recommendation)** or **[Anomaly detection](https://github.com/sbrice/practical-ml/tree/master/anomaly)** notebook learn at your own pace and seek help from the facilitators as you need it. Prior programming experience required. 
+
+  - **Prerequisites:** Prior Python programming experience, basic familiarity with math (e.g. linear algebra), and data analysis.
 
   - **Facilitators:** [Samuel Brice](https://github.com/sbrice)
 
 * [Get Started with TensorFlow](https://www.tensorflow.org/tutorials/) (Advanced)
 
   Learn and use ML by going through some beginner-friendly notebook examples. We'll go through training a neural network to classify images and text. This is a fast-paced overview of complete TensorFlow programs with the details explained as we go. Prior experience with Python and Jupyter required.
+
+  - **Prerequisites:** Prior Python programming experience, basic familiarity with math (e.g. linear algebra), and data analysis.
 
   - **Facilitators:** [Samuel Brice](https://github.com/sbrice)
 
