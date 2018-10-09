@@ -49,7 +49,7 @@ Not confident in your coding chops? Want to learn more about how to use Jupyter?
 
   - **Prerequisites:** Some programming experience. No prior Python or JupyterLab experience necessary.
 
-  - **Facilitators:** [Jessica Ford](https://github.com/jzf2101)
+  - **Facilitators:** [Jessica Ford](https://github.com/jzf2101), [Steve Silvester](https://github.com/blink1073)
 
 * [Practical machine learning with the Jupyter Notebook](https://github.com/sbrice/practical-ml) (Intermediate)
 
