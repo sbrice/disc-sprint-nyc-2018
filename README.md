@@ -14,6 +14,10 @@
 
 Contribute to your first open source project and play with [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) - no prior experience necessary!
 
+<p align="center">
+  <img height="200" src="https://cdn-images-1.medium.com/max/800/1*T2_Ebo4KFoeP6o5lE5WocQ.gif" />
+</p>
+
 Join us at the **Two Sigma** offices in lovely **SoHo NYC** for a day of fun and learning. Core contributors from the **JupyterLab** project will be on-site to get you setup and help trouble-shoot your code. 
 
 If you've never contributed to open source this event is for you.
