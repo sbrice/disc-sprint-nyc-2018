@@ -12,7 +12,7 @@
 
 # Open Source Inclusion Sprint - Beginners Welcome!   
 
-### ([Register Now!](https://www.eventbrite.com/e/numfocus-open-data-science-hackathon-tickets-50877368579) - Discount Code: DISC)
+### [Register Now!](https://www.eventbrite.com/e/numfocus-open-data-science-hackathon-tickets-50877368579) - Discount Code: DISC
 
 Contribute to your first open source project and play with [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) - no prior experience necessary!
 
