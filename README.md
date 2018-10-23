@@ -63,7 +63,7 @@ Not confident in your coding chops? Want to learn more about how to use Jupyter?
 
   - **Prerequisites:** Python programming experience, basic familiarity with math (e.g. linear algebra), and data analysis.
 
-  - **Facilitators:** [Samuel Brice](https://github.com/sbrice)
+  - **Facilitators:** [Jane Adams](https://github.com/thejunglejane), [Samuel Brice](https://github.com/sbrice)
 
 * [Get Started with TensorFlow](https://www.tensorflow.org/tutorials/) (Advanced)
 
@@ -90,7 +90,7 @@ Based on interest we'll create workshops focused on the above topics. If you hav
 - Widen the pool of open-source contributors
 - Get familiar with JupyterLab
 - Contribute to JupyterLab
-- Involve more women and gender minorities in and open source
+- Involve more women and minorities in and open source
 - Build momentum for continued contribution
 
 ---
@@ -124,6 +124,7 @@ Special thanks to [Gina Helfrich](https://www.linkedin.com/in/ginahelfrich/), [J
 * [Saul Shanabrook](https://github.com/saulshanabrook) - Quansight (general development, extensions).
 
 ### Teaching Assistants and Helpers
+* [Jane Adams](https://github.com/thejunglejane)
 * If interested in helping out please reach out to  Sam Brice (brices@gmail.com).
 
 ---
