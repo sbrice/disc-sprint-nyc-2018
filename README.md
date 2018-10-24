@@ -125,6 +125,7 @@ Special thanks to [Gina Helfrich](https://www.linkedin.com/in/ginahelfrich/), [J
 
 ### Teaching Assistants and Helpers
 * [Jane Adams](https://github.com/thejunglejane)
+* [Diego Torres](https://github.com/DiegoAlbertoTorres)
 * If interested in helping out please reach out to  Sam Brice (brices@gmail.com).
 
 ---
