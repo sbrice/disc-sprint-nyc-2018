@@ -117,11 +117,15 @@ Special thanks to [Gina Helfrich](https://www.linkedin.com/in/ginahelfrich/), [J
 ### JupyterLab Core Developers
 <p float="left">
   <img src="images/afshin.jpg" width="200" />
+  <img src="images/jzf2101.png" width="200"  />
   <img src="images/blink1073.jpg" width="200"  /> 
+  <img src="images/saulshanabrook.jpg" width="200"  />
 </p>
 
 * [Afshin Darian](https://github.com/afshin) - Two Sigma (co-creator, application/high-level architecture, prolific contributions throughout code base).
+* [Jessica Ford](https://github.com/jzf2101) - Project Jupyter (demo, documentation).
 * [Steve Silvester](https://github.com/blink1073) - JPMorgan Chase (co-creator, release mngmt, packaging, prolific contributions throughout code base).
+* [Saul Shanabrook](https://github.com/saulshanabrook) - Quansight (general development, extensions).
 
 ### Teaching Assistants and Helpers
 * [Diego Torres](https://github.com/DiegoAlbertoTorres)
