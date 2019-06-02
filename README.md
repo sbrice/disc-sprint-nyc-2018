@@ -12,6 +12,10 @@
 
 # Open Source Inclusion Sprint - Beginners Welcome!   
 
+* [Contribute to your first open source project](https://blog.jupyter.org/disc-sprint-nyc-2018-548780d0f40)
+
+* [Highlights From The 2018 NYC DISC Sprint](https://blog.jupyter.org/highlights-from-the-2018-nyc-disc-sprint-ac4cf34b1566)
+
 ### [Register Now!](https://www.eventbrite.com/e/numfocus-open-data-science-hackathon-tickets-50877368579) Discount Code: DISC
 
 Contribute to your first open source project and play with [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) - no prior experience necessary!
@@ -113,19 +117,15 @@ Special thanks to [Gina Helfrich](https://www.linkedin.com/in/ginahelfrich/), [J
 ### JupyterLab Core Developers
 <p float="left">
   <img src="images/afshin.jpg" width="200" />
-  <img src="images/jzf2101.png" width="200"  /> 
   <img src="images/blink1073.jpg" width="200"  /> 
-  <img src="images/saulshanabrook.jpg" width="200"  /> 
 </p>
 
 * [Afshin Darian](https://github.com/afshin) - Two Sigma (co-creator, application/high-level architecture, prolific contributions throughout code base).
-* [Jessica Ford](https://github.com/jzf2101) - Project Jupyter (demo, documentation).
 * [Steve Silvester](https://github.com/blink1073) - JPMorgan Chase (co-creator, release mngmt, packaging, prolific contributions throughout code base).
-* [Saul Shanabrook](https://github.com/saulshanabrook) - Quansight (general development, extensions).
 
 ### Teaching Assistants and Helpers
-* [Jane Adams](https://github.com/thejunglejane)
 * [Diego Torres](https://github.com/DiegoAlbertoTorres)
+* [Alex Alekseyev](https://github.com/evectant)
 * If interested in helping out please reach out to  Sam Brice (brices@gmail.com).
 
 ---
